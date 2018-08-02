@@ -4,9 +4,12 @@ binary = "binary"
 do_not = "don`t"
 y = "Those who know %s and those who %s." % (binary, do_not)
 
-#Print variables.
+#Print variables 'x' and 'y'.
 print x
 print y
+
+#%r = raw also used for debugging
+#%s = outputs as string
 
 print "I said: %r." % x
 print "I also said: '%s'." % y
