@@ -1,0 +1,46 @@
++------+------+
+|NOT|True?|
++======+======+
+|not False|True|
++------+------+
+|not True|False|
++------+------+
+
++------+------+
+|OR|True?|
++======+======+
+|True or False|True|
++------+------+
+|True or True|True|
++------+------+
+|False or True|True|
++------+------+
+|False or False|False|
++------+------+
+
++------+------+
+|AND|True?|
++------+------+
+|True and False| False
++------+------+
+|True and True| True
++------+------+
+|False and True| False
++------+------+
+|False and False| False
++------+------+
+
+
+
+
++------------+------------+-----------+
+| Header 1   | Header 2   | Header 3  |
++============+============+===========+
+| body row 1 | column 2   | column 3  |
++------------+------------+-----------+
+| body row 2 | Cells may span columns.|
++------------+------------+-----------+
+| body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+| body row 4 |            | - blocks. |
++------------+------------+-----------+
