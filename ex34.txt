@@ -1,0 +1,24 @@
+animals = ['bear', 'python' 'peacock', 'kangaroo', 'whale', 'platypus']
+
+Note:
+    Ordinal numbers = Ordered numbers
+    Cardinal numbers = Random numbers starts at 0
+
+Questions:
+    1. The animal at 1.
+        Python
+    2. The third animal
+        Peacock
+    3. The first animal
+        Bear
+    4. The animal at 3
+        Kangaroo
+    5. The fifth animal.
+        Whale
+    6. The animal at 2.
+        Peacock
+    7. The sixth animal.
+        Platypus
+    8. The animal at 4.
+        Whale
+
