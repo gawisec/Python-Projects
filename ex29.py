@@ -25,6 +25,7 @@ if people <= dogs:
 if people == dogs:
     print "People are dogs."
 
-cats +=
+cats += 5
+
 if people >= cats:
     print "People are greater than or equal to cats."
